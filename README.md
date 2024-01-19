@@ -18,4 +18,4 @@ Open and run the Tesla_Stock_Prediction.ipynb notebook. This will guide you thro
 * data: Contains the dataset used for training and testing.
 * Tesla_Stock_Prediction.ipynb: Jupyter Notebook with step-by-step instructions.
 
-* Happy stock predicting! 📈 
+# Happy stock predicting! 📈 
